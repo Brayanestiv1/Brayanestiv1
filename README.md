@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ### Hello World
 Hi, I'm [Brayanestiv1](https://Brayanestiv1.com) 👋
@@ -14,6 +13,6 @@ Hi, I'm [Brayanestiv1](https://Brayanestiv1.com) 👋
 
 ----
 
-Credits: [windard](https://github.com/Brayanestiv1)
+Credits: [Brayanestiv1](https://github.com/Brayanestiv1)
 
-Last Edited on: 31/08/2020
+
