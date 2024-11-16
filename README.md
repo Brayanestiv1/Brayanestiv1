@@ -2,9 +2,7 @@
 ### Hello World
 Hi, I'm [Brayanestiv1](https://Brayanestiv1.com) 👋
 
-![age](https://img.shields.io/badge/age-24-blue)
-![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-![living](https://img.shields.io/badge/living-shanghai-3c9)
+
 ![Brayanestiv1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayanestiv1&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brayanestiv1&theme=radical)](https://git.io/streak-stats) 
 [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Brayanestiv1&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
