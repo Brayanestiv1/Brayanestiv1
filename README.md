@@ -36,11 +36,15 @@
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:cuentaestudio1504@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width="100px" height="auto"/></a>
-	<a href="https://github.com/Brayanestiv1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" width="100px" height="auto"/></a>
-	<a href="https://wa.me/+57316879239"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" width="120px" height="auto"/></a>
-	<a href="https://www.linkedin.com/in/brayan-vera-864929338/)"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="110px" height="auto"/></a>
+<p align="center" >
+	 &emsp;
+	<a href="mailto:cuentaestudio1504@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width="100vw" height="auto"/></a>
+	 &emsp;
+	<a href="https://github.com/Brayanestiv1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" width="100vw" height="auto"/></a>
+	 &emsp;
+	<a href="https://wa.me/+57316879239"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" width="120vw" height="auto"/></a>
+	 &emsp;
+	<a href="https://www.linkedin.com/in/brayan-vera-864929338/)"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="110vw" height="auto"/></a>
 </p>
 
 
@@ -52,7 +56,7 @@
 <p align="center"> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" width = 100vw height="auto>
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
@@ -80,7 +84,7 @@
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" >
    </a>
 </p>
 
