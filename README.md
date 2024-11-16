@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Hello World
-Hi, I'm [Windard](https://windard.com) 👋
+Hi, I'm [Windard](https://Brayanestiv1.com) 👋
 
 ![age](https://img.shields.io/badge/age-24-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
@@ -14,6 +14,6 @@ Hi, I'm [Windard](https://windard.com) 👋
 
 ----
 
-Credits: [windard](https://github.com/windard)
+Credits: [windard](https://github.com/Brayanestiv1)
 
 Last Edited on: 31/08/2020
