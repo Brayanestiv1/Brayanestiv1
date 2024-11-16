@@ -6,7 +6,7 @@ Hi, I'm [Brayanestiv1](https://Brayanestiv1.com) 👋
 ![age](https://img.shields.io/badge/age-24-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-shanghai-3c9)
-![visitors](https://visitor-badge.herokuapp.com/badge?page_id=Brayanestiv1.github.profile)
+
 
 <br />
 
