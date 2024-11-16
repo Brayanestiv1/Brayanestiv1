@@ -39,8 +39,8 @@
 <p align="center">
 	<a href="mailto:cuentaestudio1504@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width="80px" height="auto"/></a>
 	<a href="https://github.com/Brayanestiv1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" width="80px" height="auto"/></a>
-	<a href="https://wa.me/+57316879239"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" width="80px" height="auto"/></a>
-	<a href="https://www.linkedin.com/in/brayan-vera-864929338/)"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="80px" height="auto"/></a>
+	<a href="https://wa.me/+57316879239"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" width="100px" height="auto"/></a>
+	<a href="https://www.linkedin.com/in/brayan-vera-864929338/)"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="90px" height="auto"/></a>
 </p>
 
 
