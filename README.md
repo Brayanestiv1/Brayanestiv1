@@ -12,10 +12,6 @@ Hi, I'm [Brayanestiv1](https://Brayanestiv1.com) 👋
 
 [![Windard's github stats](https://github-readme-stats.vercel.app/api?username=Brayanestiv1&show_icons=true)](https://github.com/Brayanestiv1)
 
-----
-
-Credits: [Brayanestiv1](https://github.com/Brayanestiv1)
-
 
 
 
