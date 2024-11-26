@@ -183,6 +183,12 @@
     	<a href="https://github.com/Brayanestiv1/mi-calculadora-IMC">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brayanestiv1&repo=mi-calculadora-IMC&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+     	<a href="https://github.com/Brayanestiv1/taller-tailwind">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brayanestiv1&repo=taller-tailwind&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+     	<a href="https://github.com/juancrfig/landing-page-calzado">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brayanestiv1&repo=landing-page-calzado&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
     
   </p>
 </div>
