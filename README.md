@@ -187,7 +187,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brayanestiv1&repo=taller-tailwind&theme=tokyonight" alt="GitHub Stats" />
     	</a>
      	<a href="https://github.com/juancrfig/landing-page-calzado">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brayanestiv1&repo=landing-page-calzado&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=juancrfig&repo=landing-page-calzado&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     
   </p>
